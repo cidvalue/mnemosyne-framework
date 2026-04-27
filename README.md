@@ -78,6 +78,10 @@ Mnemosyne emerged from the realization that AI-native organizations may require 
 - Agent continuity
 - AI Organizational Entropy
 
+## Essays
+
+Foundational doctrine essays are available in the `/essays` directory.
+
 ---
 
 # Status
