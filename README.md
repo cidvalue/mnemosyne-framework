@@ -1,3 +1,6 @@
+![The AI Continuity Problem](visuals/overview/01-ai-continuity-problem.png)
+
+![Mnemosyne Continuity Layer](visuals/overview/03-mnemosyne-continuity-layer.png)
 # Mnemosyne
 ## Continuity Architecture for Persistent Human–AI Cognition
 
