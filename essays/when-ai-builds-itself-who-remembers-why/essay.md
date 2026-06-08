@@ -6,6 +6,7 @@ author_role: "Creator, Mayorga Mnemosyne AI Continuity Framework™"
 date: "June 2026"
 slug: "when-ai-builds-itself-who-remembers-why"
 canonical_url: "https://franciscomayorga.com/essays/when-ai-builds-itself-who-remembers-why"
+doi: "https://doi.org/10.5281/zenodo.20599060"
 language: "en"
 source_pdf: "When_AI_Builds_Itself_Who_Remembers_Why_Francisco_J_Mayorga_Jr_FINAL_2026.pdf"
 ---
