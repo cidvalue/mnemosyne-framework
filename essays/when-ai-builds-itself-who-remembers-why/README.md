@@ -2,10 +2,11 @@
 
 **Temperature Zero, Recursive Self-Improvement, and the Continuity Layer AI Safety Is Missing**
 
-**Author:** Francisco J. Mayorga, Jr.  
-**Framework:** Mayorga Mnemosyne AI Continuity Framework™  
-**Date:** June 2026  
+**Author:** Francisco J. Mayorga, Jr.
+**Framework:** Mayorga Mnemosyne AI Continuity Framework™
+**Date:** June 2026
 **Canonical URL:** https://franciscomayorga.com/essays/when-ai-builds-itself-who-remembers-why
+**DOI:** [10.5281/zenodo.20599060](https://doi.org/10.5281/zenodo.20599060)
 
 ## Abstract
 
@@ -17,21 +18,22 @@ The Mayorga Mnemosyne AI Continuity Framework™ proposes continuity as a neglec
 
 ## Core Thesis
 
-Temperature zero is not continuity.  
-Retrieval is not continuity.  
-A pause is not continuity.  
+Temperature zero is not continuity.
+Retrieval is not continuity.
+A pause is not continuity.
 Recursive self-improvement makes continuity non-optional.
 
 ## Read the Essay
 
-- Website version: https://franciscomayorga.com/essays/when-ai-builds-itself-who-remembers-why
-- Markdown version: [essay.md](./essay.md)
-- PDF version: [Download PDF](./When_AI_Builds_Itself_Who_Remembers_Why_Francisco_J_Mayorga_Jr_FINAL_2026.pdf)
+* Website version: https://franciscomayorga.com/essays/when-ai-builds-itself-who-remembers-why
+* Markdown version: [essay.md](./essay.md)
+* PDF version: [Download PDF](./When_AI_Builds_Itself_Who_Remembers_Why_Francisco_J_Mayorga_Jr_FINAL_2026.pdf)
+* Zenodo DOI: [10.5281/zenodo.20599060](https://doi.org/10.5281/zenodo.20599060)
 
 ## Citation
 
-Mayorga, Francisco J., Jr. *When AI Builds Itself, Who Remembers Why? Temperature Zero, Recursive Self-Improvement, and the Continuity Layer AI Safety Is Missing.* Mayorga Mnemosyne AI Continuity Framework™, June 2026.
+Mayorga, Francisco J., Jr. (2026). *When AI Builds Itself, Who Remembers Why? Temperature Zero, Recursive Self-Improvement, and the Continuity Layer AI Safety Is Missing.* Zenodo. https://doi.org/10.5281/zenodo.20599060
 
 ## Keywords
 
-AI safety; recursive self-improvement; institutional memory; continuity architecture; AI governance; provenance; deterministic inference; Mayorga Mnemosyne AI Continuity Framework
+AI safety; recursive self-improvement; institutional memory; continuity architecture; AI governance; provenance; deterministic inference; temperature zero; AI continuity; Mayorga Mnemosyne AI Continuity Framework
