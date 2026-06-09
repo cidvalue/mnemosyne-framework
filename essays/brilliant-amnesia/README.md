@@ -5,6 +5,8 @@
 **Framework:** Mayorga Mnemosyne AI Continuity Framework™  
 **Date:** June 2026  
 **Canonical Website URL:** https://franciscomayorga.com/essays/brilliant-amnesia
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.20614311
+
 
 ## Summary
 
@@ -17,7 +19,8 @@ This essay introduces **brilliant amnesia**: the condition in which an AI-native
 
 ## Suggested Citation
 
-Mayorga, Francisco J., Jr. “Brilliant Amnesia: How AI-Native Organizations Lose What They Know.” Mayorga Mnemosyne AI Continuity Framework™, June 2026. https://franciscomayorga.com/essays/brilliant-amnesia
+Mayorga, Francisco J., Jr. “Brilliant Amnesia: How AI-Native Organizations Lose What They Know.” *Mayorga Mnemosyne AI Continuity Framework™*, June 2026. https://doi.org/10.5281/zenodo.20614311
+
 
 ## Related Framework Materials
 
