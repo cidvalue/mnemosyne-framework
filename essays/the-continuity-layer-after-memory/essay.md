@@ -4,6 +4,8 @@ subtitle: "The Mayorga Mnemosyne AI Continuity Framework for AI Systems That Pre
 author: "Francisco J. Mayorga, Jr."
 version: "v1.0"
 date: "June 2026"
+doi: "10.5281/zenodo.20602608"
+zenodo_url: "https://doi.org/10.5281/zenodo.20602608"
 ---
 
 The Continuity Layer After Memory
