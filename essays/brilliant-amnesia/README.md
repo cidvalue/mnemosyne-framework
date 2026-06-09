@@ -6,6 +6,7 @@
 **Date:** June 2026  
 **Canonical Website URL:** https://franciscomayorga.com/essays/brilliant-amnesia
 **Zenodo DOI:** https://doi.org/10.5281/zenodo.20614311
+**Academia.edu:** https://www.academia.edu/168428835/Brilliant_Amnesia_How_AI_Native_Organizations_Lose_What_They_Know
 
 
 ## Summary
@@ -27,3 +28,4 @@ Mayorga, Francisco J., Jr. “Brilliant Amnesia: How AI-Native Organizations Los
 - Main website: https://franciscomayorga.com
 - Framework: https://franciscomayorga.com/mnemosyne
 - Essays index: https://franciscomayorga.com/essays
+- Academia.edu version: https://www.academia.edu/168428835/Brilliant_Amnesia_How_AI_Native_Organizations_Lose_What_They_Know
