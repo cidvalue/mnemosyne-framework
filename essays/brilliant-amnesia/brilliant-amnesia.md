@@ -9,6 +9,7 @@ language: "English"
 slug: "brilliant-amnesia"
 route: "/essays/brilliant-amnesia"
 canonical_url: "https://franciscomayorga.com/essays/brilliant-amnesia"
+Zenodo DOI: https://doi.org/10.5281/zenodo.20614311
 seo_title: "Brilliant Amnesia | Francisco J. Mayorga, Jr."
 meta_description: "A public essay by Francisco J. Mayorga, Jr. on brilliant amnesia: how AI-native organizations become locally brilliant but lose the reasoning, rationale, memory, and continuity needed for intelligence to compound."
 og_image_suggested: "/og/og-brilliant-amnesia.png"
