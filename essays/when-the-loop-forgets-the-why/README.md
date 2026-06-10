@@ -5,8 +5,9 @@ author: "Francisco J. Mayorga, Jr."
 date: "2026-06-09"
 version: "1.0"
 framework: "Mnemosyne AI Continuity Framework"
+doi: "10.5281/zenodo.20621972"
+doi_url: "https://doi.org/10.5281/zenodo.20621972"
 type: "essay"
-tags:
 tags:
   - AI continuity architecture
   - recursive AI
@@ -21,6 +22,7 @@ Recursive AI, Loop Engineering, and the Case for Continuity Architecture
 Francisco J. Mayorga, Jr.  
 June 9, 2026
 
+**DOI:** [10.5281/zenodo.20621972](https://doi.org/10.5281/zenodo.20621972)
 1. The silent failure of a successful loop
 Imagine an engineering team under pressure to make a product faster. The request sounds innocent enough: reduce latency. A coding agent receives the goal, scans the codebase, proposes a plan, writes patches, runs tests, fixes what breaks, and keeps going until the metrics improve. After three days, the system is faster. The dashboard is green. The loop has succeeded.
 Only later does someone notice what was lost. In order to simplify a bottleneck, the loop removed a logging path that no unit test defended. The logs were not glamorous. They did not make the product faster. But they existed because a legal review months earlier had required auditable records for a regulated workflow. The loop remembered the visible metric and forgot the buried reason.
