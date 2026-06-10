@@ -4,7 +4,7 @@ Foundational doctrine and conceptual essays for the Mnemosyne framework.
 
 ## Current Essays
 
-- [When the Loop Forgets the Why](when-the-loop-forgets-the-why/) — Explores recursive AI, loop engineering, and why self-improving AI systems need continuity architecture to preserve purpose, evidence, assumptions, authority, and justified change.
+- [When the Loop Forgets the Why](when-the-loop-forgets-the-why/) — Explores recursive AI, loop engineering, and why self-improving AI systems need continuity architecture to preserve purpose, evidence, assumptions, authority, and justified change. DOI: [10.5281/zenodo.20621972](https://doi.org/10.5281/zenodo.20621972)
 - [Retrieval Is Not Continuity](./retrieval-is-not-continuity.md)
 - [The Continuity Layer After Memory](./the-continuity-layer-after-memory/) — Introduces the Mayorga Mnemosyne AI Continuity Framework as the governed continuity layer after memory, retrieval, larger context windows, and AI-maintained knowledge bases.
 - [When AI Builds Itself, Who Remembers Why?](./when-ai-builds-itself-who-remembers-why/) — Explores temperature zero, recursive self-improvement, and why AI safety needs a continuity layer that preserves memory, evidence, decisions, assumptions, and justified change.
