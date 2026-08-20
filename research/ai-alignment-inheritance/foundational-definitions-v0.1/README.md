@@ -3,7 +3,8 @@
 **Francisco J. Mayorga, Jr.**  
 **Mayorga Mnemosyne Continuity Framework™**  
 **Canonical version:** 0.1  
-**Publication date:** August 18, 2026
+**Publication date:** August 18, 2026  
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.22029010
 
 ## Purpose
 
@@ -146,6 +147,10 @@ The central experimental question is whether continuity-specific evaluations rev
 This document is a public versioned record of the definitions and claims above as formulated within the Mayorga Mnemosyne Continuity Framework™ on August 18, 2026. Version history should be used to distinguish later refinements from this initial canonical formulation.
 
 Public timestamping establishes the content and date of this formulation. It should not be interpreted as claiming priority over earlier literature where substantive prior art exists.
+
+## Citation
+
+Mayorga, F. J., Jr. (2026). *AI Alignment Inheritance: Foundational Definitions & Claims Note v0.1* (Version 0.1). Mayorga Mnemosyne Continuity Framework™. https://doi.org/10.5281/zenodo.22029010
 
 ## Author
 
