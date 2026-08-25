@@ -4,6 +4,7 @@ Foundational doctrine and conceptual essays for the Mnemosyne framework.
 
 ## Current Essays
 
+- [Continuity Before Language?](continuity-before-language/) — Explores whether Continuity is a distinct architectural dimension of cumulative intelligence, how language transforms what can be inherited, and what increasingly capable AI systems must preserve, revise, and govern to inherit a trustworthy history. DOI: [10.5281/zenodo.22070099](https://doi.org/10.5281/zenodo.22070099)
 - [When Intelligence Becomes Infrastructure](when-intelligence-becomes-infrastructure/) — Argues that the path from AGI to ASI is not only a capability-scaling problem, but a continuity-scaling problem requiring preservation of decision lineage, evidence, authority, failure memory, and justified change across recursive and multi-agent AI systems.
 - [When the Loop Forgets the Why](when-the-loop-forgets-the-why/) — Explores recursive AI, loop engineering, and why self-improving AI systems need continuity architecture to preserve purpose, evidence, assumptions, authority, and justified change. DOI: [10.5281/zenodo.20621972](https://doi.org/10.5281/zenodo.20621972)
 - [Retrieval Is Not Continuity](./retrieval-is-not-continuity.md)
