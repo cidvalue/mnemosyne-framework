@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19812034.svg)](https://doi.org/10.5281/zenodo.19812034)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19812033.svg)](https://doi.org/10.5281/zenodo.19812033)
 ![The AI Continuity Problem](visuals/overview/01-ai-continuity-problem.png)
 
 ![Mnemosyne Continuity Layer](visuals/overview/03-mnemosyne-continuity-layer.png)
