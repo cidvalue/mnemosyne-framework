@@ -15,7 +15,8 @@ Independent Research Essay | Zenodo Archival Copy
 - **Zenodo DOI:** https://doi.org/10.5281/zenodo.22070099
 - **Zenodo record:** https://zenodo.org/records/22070099
 - **First public release (Medium):** https://medium.com/@fmayo/continuity-before-language-b84b1725e462
-- **Author website:** https://franciscomayorga.com
+- **Academia.edu:** https://www.academia.edu/172354795/Continuity_Before_Language
+- **Canonical website essay:** https://franciscomayorga.com/essays/continuity-before-language
 - **Rights:** Copyright © 2026 Francisco J. Mayorga, Jr. All rights reserved.
 
 > This GitHub entry preserves the public archival identity and provenance of *Continuity Before Language?* Public Edition 1.2. The full DOI-backed scholarly edition, including the complete essay, references, and archival files, is preserved on Zenodo at the record above.
